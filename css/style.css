@@ -33,6 +33,7 @@ a {
 .header-container {
     display: flex;
     align-items: center;
+    padding: 0 15px;
 }
 
 .header-navigation {
@@ -44,6 +45,7 @@ a {
     display: flex;
     align-items: center;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .header-contacts-list {
