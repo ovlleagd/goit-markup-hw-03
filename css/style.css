@@ -209,6 +209,7 @@ color: #434455;
 
 .container-subtitle-text {
    padding-bottom: 32px;
+   padding: 32px 0;
 }
 
 
@@ -233,6 +234,7 @@ color: #434455;
 .team-item {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
+    width: calc((100% - 72px) / 4);
 }
 .team-item-images {
     margin-bottom: 32px;
