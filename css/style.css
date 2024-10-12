@@ -22,6 +22,7 @@ a {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+    padding: 32px 0;
 }
 
 /* ------------------------header--------------------- */
@@ -220,15 +221,18 @@ color: #434455;
     color: #2e2f42;
     text-transform: capitalize;
     padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .team-list {
     display: flex;
     align-items: center;
     column-gap: 24px;
+    gap: 24px;
 }
 .team-item {
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
 }
 .team-item-images {
     margin-bottom: 32px;
@@ -276,6 +280,7 @@ color: #434455;
     text-transform: capitalize;
     padding-top: 120px;
     padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-list {
