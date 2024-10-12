@@ -25,9 +25,7 @@ a {
     padding: 32px 0;
 }
 
-.photo {
-    display: block;
-}
+
 /* ------------------------header--------------------- */
 .header {
     border-bottom: 1px solid #e7e9fc;
@@ -245,6 +243,7 @@ color: #434455;
 }
 .team-item-images {
     margin-bottom: 32px;
+    display: block;
 }
 
 .team-subtitle {
@@ -305,7 +304,7 @@ color: #434455;
 }
 
 .portfolio-item-images {
-
+    display: block;
 }
 
 .portfolio-subtitle {
