@@ -160,6 +160,7 @@ margin: 0 auto 48px auto;
 .avantages {
     padding-top: 112px;
     padding-bottom: 120px;
+    padding: 120px 0;
 }
 
 .visually-hidden {
@@ -182,7 +183,7 @@ margin: 0 auto 48px auto;
 }
 
 .avantages-item {
-    width: calc((100% - 3 * 24) / 4);
+    width: calc((100% - 72px) / 4);
 }
 
 .avantages-subtitle {
